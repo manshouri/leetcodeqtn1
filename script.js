@@ -6,7 +6,7 @@ const result = [];
 
 for(let i=0; i<arr3.length;i++){
    result.push(arr3[i] + arr4[i]);
-   console.log(arr5)
+   console.log(result)
 }
 
 
